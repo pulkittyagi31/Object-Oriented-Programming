@@ -8,7 +8,7 @@ class student{
 int main(){
 	student s;
 	s.name="pulkit";
-	s.phone="9650819336";
+	s.phone="XXXXXXXX";
 	cout<<s.name<<endl;
 	cout<<s.phone<<endl;
 }
